@@ -24,10 +24,3 @@ It features a realistic calculator UI, keyboard input support, and smooth user i
 
 ---
 
-## 📸 Preview
-
-_Add a screenshot of your calculator here (optional)_  
-You can upload an image and link it like this:
-
-```md
-![Calculator Preview](screenshot.png)
